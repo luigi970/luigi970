@@ -1,6 +1,6 @@
 ### Hey, I'm Luis 👋
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=luigi970&show_icons=true&theme=gotham" alt="Luigi.Dev" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=luigi970&show_icons=true&theme=vue" alt="Luigi.Dev" />
 
 
 <!--
