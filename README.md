@@ -1,5 +1,5 @@
 ### Hey, I'm Luis 👋
-a passionate self-taught web developer from Argentina.
+and I'm a web developer from Argentina.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
