@@ -1,18 +1,11 @@
-# Modern Profile
+# README
 
-## Skills
-- JavaScript
-- Python
-- C++
-- HTML & CSS
-- SQL
+Welcome to the project repository!
 
-## Tools
-- Git
-- GitHub
-- Visual Studio Code
-- Docker
-- Postman
+This repository primarily focuses on:
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luigi970&show_icons=true)
+- AI Development
+- Trading & Finance App Development
+- Social App Development
+
+Feel free to explore the code and contribute to the ongoing projects. We welcome everyone to be a part of our growing community!
