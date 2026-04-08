@@ -19,7 +19,7 @@ Soy un desarrollador que disfruta el desafío de convertir código en soluciones
 
 ## ☕ Mi enfoque actual
 
-* 🧪 **IA & Dev Workflow:** Experimentando con asistentes de codificación basados en IA (LLMs) para automatizar tareas repetitivas, generar tests y mejorar la calidad del código. La idea es ser más estratégico y menos operativo.
+* 🧪 **IA & Dev Workflow:** Integro modelos de lenguaje avanzados para optimizar el flujo de trabajo, desde la arquitectura hasta el debugging. Creo que el uso estratégico de la IA es clave para elevar la calidad técnica.
 * Modernizando mi stack constantemente, adoptando herramientas que mejoren la experiencia de desarrollo (DX) y la performance.
 
 ---
@@ -28,18 +28,9 @@ Soy un desarrollador que disfruta el desafío de convertir código en soluciones
 
 | Categoría | Tecnologías |
 | :--- | :--- |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
 | **PWA** | ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=progressive-web-apps&logoColor=white) ![Service Workers](https://img.shields.io/badge/Service_Workers-FFCA28?style=flat-square&logo=service-workers&logoColor=black) |
-| **Backend** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Herramientas & IA** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Github Copilot](https://img.shields.io/badge/Copilot-6D3F5B?style=flat-square&logo=github&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white) |
-
----
-
-## 📊 Estadísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luigi970&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="Stats de Luis" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luigi970&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Herramientas & IA** | ![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=flat-square&logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 
 ---
